@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960621694065",
+    "project_id": "aamovieupload-d4b98",
+    "storage_bucket": "aamovieupload-d4b98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960621694065:android:05d6bbd3b525cfce039fd0",
+        "android_client_info": {
+          "package_name": "com.example.aamovieupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960621694065-p6bh15lc39rh59hj9qs82tv0quocrvgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAozO-l9mx1jLND3ntXztMf8qMimHCmcXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960621694065-p6bh15lc39rh59hj9qs82tv0quocrvgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
